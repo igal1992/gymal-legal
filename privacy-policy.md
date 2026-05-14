@@ -67,4 +67,4 @@ We may update this policy from time to time. Material changes will be announced 
 
 Questions, deletion requests, or concerns:
 
-**Email:** [igal.mekonen@tandemg.com](mailto:igal.mekonen@tandemg.com)
+**Email:** [gymonzapp@gmail.com](mailto:gymonzapp@gmail.com)
