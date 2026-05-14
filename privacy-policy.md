@@ -6,7 +6,7 @@ title: Gymal Privacy Policy
 
 **Last updated:** 14 May 2026
 
-Gymal ("we", "us", "the app") is operated by Tandem G ("Tandem G"). This policy explains what data we collect, how we use it, and your rights regarding it.
+Gymal ("Gymal", "we", "us", "the app") explains in this policy what data we collect, how we use it, and your rights regarding it.
 
 ## 1. Data we collect
 
