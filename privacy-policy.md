@@ -4,7 +4,7 @@ title: Gymal Privacy Policy
 
 # Gymal Privacy Policy
 
-**Last updated:** 14 May 2026
+**Last updated:** 20 May 2026
 
 Gymal ("Gymal", "we", "us", "the app") explains in this policy what data we collect, how we use it, and your rights regarding it.
 
@@ -13,12 +13,13 @@ Gymal ("Gymal", "we", "us", "the app") explains in this policy what data we coll
 When you use Gymal, we collect:
 
 - **Account information**: email address, display name, and (if you use Google Sign-In) the basic profile your Google account exposes. Created when you register an account.
+- **Fitness profile**: height, weight, gender, fitness level, and a body fat estimate calculated from those values. You provide these during onboarding (or later in Settings) so we can personalize your daily workouts and balance your Gymal's stats.
 - **Workout data you log**: exercises completed, sets, reps, weights lifted, cardio sessions, dates of activity.
 - **In-app progress**: your Gymal monsters and their stats, coins, achievements, streaks, friends list, settings, theme, and language preference.
-- **Purchases**: if you buy in-app items via Google Play Billing, we receive a confirmation token from Google. We do **not** receive your full payment details — those are handled by Google Play.
+- **Purchases**: if you buy in-app items via Apple In-App Purchase or Google Play Billing, we receive a confirmation token from the store. We do **not** receive your full payment details — those are handled by Apple or Google.
 - **Diagnostic information**: when you submit feedback or a bug report, the message you write and your account ID.
 
-We do **not** collect: precise location, contacts, photos, microphone audio, body sensors, health data beyond what you manually log, advertising identifiers, or browsing activity outside Gymal.
+We do **not** collect: precise location, contacts, photos, microphone audio, device-sensor data (we do not access HealthKit or any iOS/Android body sensors), calories, advertising identifiers, or browsing activity outside Gymal.
 
 ## 2. How we use your data
 
