@@ -50,9 +50,10 @@ You can submit feedback from **Settings → Offer Feedback** inside the app, or 
 
 ### How do I report another player?
 
-Tap the player's name in your friends list or on the leaderboard and choose **Report**. Reports are reviewed and we'll act on display names or behavior that violates our [Terms of Service](https://igal1992.github.io/gymal-legal/).
+Tap the player's name in your friends list or on the leaderboard and choose **Report**. Reports are reviewed and we'll act on display names or behavior that violates our [Terms of Service](terms-of-service.html).
 
 ## Other pages
 
+- [Terms of Service](terms-of-service.html)
 - [Privacy Policy](privacy-policy.html)
 - [Account & Data Deletion](account-deletion.html)
