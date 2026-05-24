@@ -46,7 +46,7 @@ For refunds, contact Apple ([reportaproblem.apple.com](https://reportaproblem.ap
 
 ### How do I report a bug or suggest a feature?
 
-You can submit feedback from **Settings → Offer Feedback** inside the app, or email us at the address above. Bug reports with reproduction steps and screenshots get fixed fastest.
+You can submit feedback from **Settings → About & Support → Offer Feedback** inside the app, or email us at the address above. Bug reports with reproduction steps and screenshots get fixed fastest.
 
 ### How do I report another player?
 
