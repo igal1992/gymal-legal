@@ -4,7 +4,7 @@ title: Gymal Privacy Policy
 
 # Gymal Privacy Policy
 
-**Last updated:** May 2026
+**Last updated:** June 2026
 
 Gymal ("Gymal", "we", "us", "the App") is a fitness and gamification app operated jointly by Igal Mekonen and Yuval Shamis, individuals residing in Israel, who are joint controllers of your personal data under the GDPR (Art. 26) and the equivalent provisions of Israeli law. This Privacy Policy explains what personal data we collect when you use the App, how we use it, how we share it, how long we keep it, and what rights you have over it. If anything is unclear, or to exercise any of the rights below, contact us at **gymonzapp@gmail.com**.
 
@@ -50,6 +50,8 @@ We do **NOT** use your information for advertising, profiling for marketing, beh
 - **Cloudflare Workers** (Cloudflare, Inc.) — runs our purchase-verification backend. Your device sends your account ID and the purchase token / original transaction identifier; the backend verifies with Google Play or Apple and writes the resulting subscription state to Firestore. It does not store data outside Firestore.
 - **Google Play Billing** (Android) and **Apple App Store / StoreKit** (iOS) — process payments and provide purchase confirmations. They are the controllers of your payment data.
 - **Google Sign-In** — if you sign in with Google, handles authentication; we receive only the basic profile (email, display name).
+- **Sign in with Apple** (Apple Inc.) — if you sign in with Apple on iOS, handles authentication; we receive your Apple user identifier and the email address you authorize. If you use Apple's "Hide My Email" feature, the address we receive is an anonymized Apple private-relay address (ending in `@privaterelay.appleid.com`) that forwards to your real inbox — we never see your real email address.
+- **Resend** (Resend, Inc.) — our transactional email provider. It delivers our account emails (address verification, password reset, security notices) from `noreply@gymalapp.com`, and for that purpose receives your email address and the contents of those messages. It does not use your address for any other purpose.
 
 **Other users of the App:**
 - Friends you add can see your display name, avatar, monster roster, simple progress indicators (e.g., win streak), and aggregate stats. We never expose your email, password, workout details, settings, body measurements, or fitness profile to other users.
@@ -109,7 +111,7 @@ If you are a California resident, the California Consumer Privacy Act (CCPA) as 
 
 **Categories of personal information we collect** (using CCPA's defined categories). The categories below describe the personal information we have collected, used, and disclosed for a business purpose **in the preceding 12 months**. We have **NOT sold or shared** personal information in the preceding 12 months (CCPA §1798.115).
 
-- **Identifiers** — email, account ID, display name
+- **Identifiers** — email (if you use Sign in with Apple's "Hide My Email", this is an anonymized Apple private-relay address ending in `@privaterelay.appleid.com`), account ID, display name, and — if you sign in with Apple — the Apple user identifier linked to your account
 - **Customer records** — password (hashed), fitness profile
 - **Commercial information** — purchase history, subscription tier, Apple original transaction identifier (iOS) or Google Play purchase token (Android)
 - **Internet activity** — your in-App activity (we do **NOT** collect external browsing)
@@ -137,7 +139,9 @@ If you believe a child under the applicable age has provided us data, contact gy
 
 ## 10. Data Retention
 
-We retain your data while your account is active. When you delete your account from within the App:
+We retain most of your data for as long as your account is active. As an exception, three kinds of history are deleted automatically on a rolling schedule based on your subscription tier, even while your account stays active: your workout logs, your cardio-session logs, and your rivals (battle) history. Each such record is stamped with an expiry date when it is created, and is then pruned automatically by our database once that date passes. On the **Free** tier, workout and cardio logs are kept for about 4 months and rivals history for about 1 month; on the **Pro** tier, all three are kept for 1 year; on the **Max** tier they are kept for as long as your account exists. This automatic clean-up removes only old history entries — it does not affect your account, your Gymals, their stats, your personal records, streaks, or lifetime totals.
+
+When you delete your account from within the App:
 
 - **Account profile, monsters, workouts, cardio, achievements, inventory, friends, battle history, personal records, custom programs** — deleted from our database immediately on request. Backups and replicas may retain copies for up to 30 days before being overwritten.
 - **Subscription state** — deleted with your account. Cancellation behavior is platform-specific (see our Terms of Service Section 3): **on Android**, we send a best-effort server-side cancellation request to Google Play on account deletion; **on iOS** we have no ability to cancel and you must cancel through Apple's subscription settings yourself.
