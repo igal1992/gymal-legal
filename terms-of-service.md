@@ -4,7 +4,7 @@ title: Gymal Terms of Service
 
 # Gymal Terms of Service
 
-**Last updated:** May 2026
+**Last updated:** June 2026
 
 These Terms of Service (the "Terms") govern your use of the Gymal mobile application (the "App") operated by Gymal ("Gymal", "we", "us", "our"). Please read them carefully before creating an account or using the App.
 
