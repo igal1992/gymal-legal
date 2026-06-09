@@ -23,7 +23,7 @@ Gymal ("Gymal", "we", "us", "the App") is a fitness and gamification app operate
 **Purchase-related information:**
 - A purchase token (Android) or original transaction identifier (iOS) supplied by Google Play Billing or Apple StoreKit, plus the resulting subscription tier, expiry, and auto-renew status. We do **NOT** receive your payment card number, billing address, or other payment details — those are handled exclusively by Google Play and Apple.
 
-**We do NOT collect:** precise or approximate location; HealthKit, Google Fit, or any device-sensor data; calories or heart rate; photos, microphone audio, or contacts; advertising identifiers (IDFA, AAID); browsing activity outside the App; cookies or tracking pixels.
+**We do NOT collect:** precise or approximate location; HealthKit or Google Fit data, or any device-sensor data other than your daily step count (read on-device from your phone's motion sensor for the Steps feature); calories or heart rate; photos, microphone audio, or contacts; advertising identifiers (IDFA, AAID); browsing activity outside the App; cookies or tracking pixels.
 
 **Consequences of refusing.** Email, password, display name, and the fitness profile are required to register. Other information is generated only as you use the corresponding features.
 
@@ -139,7 +139,7 @@ If you believe a child under the applicable age has provided us data, contact gy
 
 ## 10. Data Retention
 
-We retain most of your data for as long as your account is active. As an exception, three kinds of history are deleted automatically on a rolling schedule based on your subscription tier, even while your account stays active: your workout logs, your cardio-session logs, and your rivals (battle) history. Each such record is stamped with an expiry date when it is created, and is then pruned automatically by our database once that date passes. On the **Free** tier, workout and cardio logs are kept for about 4 months and rivals history for about 1 month; on the **Pro** tier, all three are kept for 1 year; on the **Max** tier they are kept for as long as your account exists. This automatic clean-up removes only old history entries — it does not affect your account, your Gymals, their stats, your personal records, streaks, or lifetime totals.
+We retain most of your data for as long as your account is active. As an exception, three kinds of history are deleted automatically on a rolling schedule based on your subscription tier, even while your account stays active: your workout logs, your cardio-session logs, and your rivals (battle) history. Each such record is stamped with an expiry date when it is created, and is then pruned automatically by our database once that date passes. On the **Free** tier, workout and cardio logs are kept for about 2 months and rivals history for about 1 week; on the **Pro** tier, all three are kept for 1 year; on the **Max** tier they are kept for as long as your account exists. This automatic clean-up removes only old history entries — it does not affect your account, your Gymals, their stats, your personal records, streaks, or lifetime totals.
 
 When you delete your account from within the App:
 
