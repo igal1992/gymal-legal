@@ -49,7 +49,7 @@ When your account is deleted, the following are permanently removed:
 
 Some records are retained after account deletion for legal and compliance reasons:
 
-- **Legal consent records**: proof that you agreed to the Terms of Service and Privacy Policy at sign-up. These are retained for the period required by applicable law (typically 6 years).
+- **Legal consent records**: proof that you agreed to the Terms of Service and Privacy Policy at sign-up. These are retained for up to seven (7) years after account deletion, as required by applicable law (unless we are subject to a litigation hold).
 - **Transaction records**: Google Play retains records of any in-app purchases you made (we do not store payment card details — those are handled entirely by Google Play).
 
 These retained records do not contain workout data, monster data, or any in-app activity — only the minimum necessary to satisfy legal requirements.
