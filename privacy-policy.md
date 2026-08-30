@@ -4,7 +4,7 @@ title: Gymal Privacy Policy
 
 # Gymal Privacy Policy
 
-**Last updated:** June 2026
+**Last updated:** August 2026
 
 Gymal ("Gymal", "we", "us", "the App") is a fitness and gamification app operated jointly by Igal Mekonen and Yuval Shamis, individuals residing in Israel, who are joint controllers of your personal data under the GDPR (Art. 26) and the equivalent provisions of Israeli law. This Privacy Policy explains what personal data we collect when you use the App, how we use it, how we share it, how long we keep it, and what rights you have over it. If anything is unclear, or to exercise any of the rights below, contact us at **gymonzapp@gmail.com**.
 
@@ -23,7 +23,10 @@ Gymal ("Gymal", "we", "us", "the App") is a fitness and gamification app operate
 **Purchase-related information:**
 - A purchase token (Android) or original transaction identifier (iOS) supplied by Google Play Billing or Apple StoreKit, plus the resulting subscription tier, expiry, and auto-renew status. We do **NOT** receive your payment card number, billing address, or other payment details — those are handled exclusively by Google Play and Apple.
 
-**We do NOT collect:** precise or approximate location; HealthKit or Google Fit data, or any device-sensor data other than your daily step count (read on-device from your phone's motion sensor for the Steps feature); calories or heart rate; photos, microphone audio, or contacts; advertising identifiers (IDFA, AAID); browsing activity outside the App; cookies or tracking pixels.
+**Health app data (optional, and off unless you turn it on):**
+- If you connect **Health Connect** (Android) or **Apple Health** (iOS), the App reads one value from it: your total step count for the current day. This lets steps recorded by a smartwatch or another fitness app count towards your Steps Expedition. We request **no other health data type** — no heart rate, workouts, calories, sleep, or body measurements — and we never write anything back to Health Connect or Apple Health. Your resulting daily step total is saved to your account, exactly as it already is when it comes from your phone's own step sensor, so your Expedition progress and rewards persist; it is retained on the Steps-Expedition schedule in Section 10. The connection is entirely optional, you can revoke it at any time in Health Connect or in Settings › Privacy & Security › Health, and the Steps Expedition keeps working from your phone's own sensor either way.
+
+**We do NOT collect:** precise or approximate location; any health-app data other than the daily step count described above (no heart rate, workouts, calories, sleep, or body measurements from Health Connect or Apple Health); any device-sensor data other than your step count; photos, microphone audio, or contacts; advertising identifiers (IDFA, AAID); browsing activity outside the App; cookies or tracking pixels.
 
 **Consequences of refusing.** Email, password, display name, and the fitness profile are required to register. Other information is generated only as you use the corresponding features.
 
@@ -41,7 +44,9 @@ Each purpose is matched to its lawful basis under the GDPR and the equivalent pr
 - **Maintain platform safety**: review and act on moderation reports submitted about other users — our *legitimate interest* in preventing harassment, abuse, and fraud on the platform.
 - **Comply with legal obligations and retain proof of consent** — *legal obligation*.
 
-We do **NOT** use your information for advertising, profiling for marketing, behavioral targeting, or sale to third parties.
+- **Count steps from Health Connect or Apple Health towards your Steps Expedition**, where you have connected one — *your explicit consent*, given in that platform's own permission prompt and revocable there at any time without deleting your account. Step counts are health data under GDPR Article 9 — *legal basis: GDPR Art. 9(2)(a) explicit consent (and equivalent provisions of Israeli and California law)*. Withdrawal does not affect the lawfulness of processing carried out before withdrawal.
+
+We do **NOT** use your information for advertising, profiling for marketing, behavioral targeting, or sale to third parties. Data read from Health Connect or Apple Health is used only to power the Steps Expedition: it is never used for advertising or marketing, never sold, never shared with third parties, and never used to train machine-learning models.
 
 ## 3. How We Share Your Information
 
