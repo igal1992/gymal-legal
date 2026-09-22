@@ -4,7 +4,7 @@ title: Gymal Privacy Policy
 
 # Gymal Privacy Policy
 
-**Last updated:** August 2026
+**Last updated:** September 2026
 
 Gymal ("Gymal", "we", "us", "the App") is a fitness and gamification app operated jointly by Igal Mekonen and Yuval Shamis, individuals residing in Israel, who are joint controllers of your personal data under the GDPR (Art. 26) and the equivalent provisions of Israeli law. This Privacy Policy explains what personal data we collect when you use the App, how we use it, how we share it, how long we keep it, and what rights you have over it. If anything is unclear, or to exercise any of the rights below, contact us at **gymonzapp@gmail.com**.
 
@@ -26,7 +26,12 @@ Gymal ("Gymal", "we", "us", "the App") is a fitness and gamification app operate
 **Health app data (optional, and off unless you turn it on):**
 - If you connect **Health Connect** (Android) or **Apple Health** (iOS), the App reads one value from it: your total step count for the current day. This lets steps recorded by a smartwatch or another fitness app count towards your Steps Expedition. We request **no other health data type** — no heart rate, workouts, calories, sleep, or body measurements — and we never write anything back to Health Connect or Apple Health. Your resulting daily step total is saved to your account, exactly as it already is when it comes from your phone's own step sensor, so your Expedition progress and rewards persist; it is retained on the Steps-Expedition schedule in Section 10. The connection is entirely optional, you can revoke it at any time in Health Connect or in Settings › Privacy & Security › Health, and the Steps Expedition keeps working from your phone's own sensor either way.
 
-**We do NOT collect:** precise or approximate location; any health-app data other than the daily step count described above (no heart rate, workouts, calories, sleep, or body measurements from Health Connect or Apple Health); any device-sensor data other than your step count; photos, microphone audio, or contacts; advertising identifiers (IDFA, AAID); browsing activity outside the App; cookies or tracking pixels.
+**App analytics and advertising measurement:**
+- The App includes the **Google Analytics for Firebase** SDK, which records technical usage data and sends it to Google: app opens, session starts and length, screens viewed, in-app purchases, app version, device model, operating-system version, language, approximate country, and a Google-generated app-instance identifier. It does not read the contents of your workouts, your messages to other users, or your fitness profile.
+- **Advertising identifier.** Where you permit it, the SDK also reads your device's advertising identifier — the IDFA on iOS, the AAID on Android. On iOS this happens **only if you tap "Allow"** on the App Tracking Transparency prompt; if you decline, iOS supplies nothing and the App behaves exactly the same. On Android you can reset or delete the identifier at any time in Settings › Privacy › Ads.
+- **What it is for.** We advertise Gymal on Google. This data tells us which campaigns actually bring people to the App and which of those lead to a subscription, so that we can stop paying for the ones that do not work, and Google uses it to optimise the delivery of those campaigns. We do **not** show ads inside Gymal.
+
+**We do NOT collect:** precise or approximate location; any health-app data other than the daily step count described above (no heart rate, workouts, calories, sleep, or body measurements from Health Connect or Apple Health); any device-sensor data other than your step count; photos, microphone audio, or contacts; browsing activity outside the App; cookies or tracking pixels.
 
 **Consequences of refusing.** Email, password, display name, and the fitness profile are required to register. Other information is generated only as you use the corresponding features.
 
@@ -44,9 +49,11 @@ Each purpose is matched to its lawful basis under the GDPR and the equivalent pr
 - **Maintain platform safety**: review and act on moderation reports submitted about other users — our *legitimate interest* in preventing harassment, abuse, and fraud on the platform.
 - **Comply with legal obligations and retain proof of consent** — *legal obligation*.
 
+- **Measure and optimise our advertising** — working out which Google Ads campaigns lead to installs and subscriptions, using the analytics and advertising-identifier data described in Section 1 — *your consent*. On iOS that consent is the App Tracking Transparency prompt; on Android it is your device-level advertising-ID setting. You may withdraw it at any time — on iOS in Settings › Privacy & Security › Tracking, on Android in Settings › Privacy › Ads — and withdrawal does not affect the lawfulness of processing carried out beforehand.
+
 - **Count steps from Health Connect or Apple Health towards your Steps Expedition**, where you have connected one — *your explicit consent*, given in that platform's own permission prompt and revocable there at any time without deleting your account. Step counts are health data under GDPR Article 9 — *legal basis: GDPR Art. 9(2)(a) explicit consent (and equivalent provisions of Israeli and California law)*. Withdrawal does not affect the lawfulness of processing carried out before withdrawal.
 
-We do **NOT** use your information for advertising, profiling for marketing, behavioral targeting, or sale to third parties. Data read from Health Connect or Apple Health is used only to power the Steps Expedition: it is never used for advertising or marketing, never sold, never shared with third parties, and never used to train machine-learning models.
+The analytics and advertising-identifier data described in Section 1 is used **only** to measure and optimise our own advertising for Gymal. Everything else we hold about you is excluded from advertising entirely: your fitness profile, workout and cardio history, body measurements, personal records, social activity, and any data read from Health Connect or Apple Health are never used for advertising or marketing, never sold, never shared with third parties, and never used to train machine-learning models. We do not sell your information, and we show no ads inside the App.
 
 ## 3. How We Share Your Information
 
@@ -55,6 +62,7 @@ We do **NOT** use your information for advertising, profiling for marketing, beh
 - **Cloudflare Workers** (Cloudflare, Inc.) — runs our purchase-verification backend. Your device sends your account ID and the purchase token / original transaction identifier; the backend verifies with Google Play or Apple and writes the resulting subscription state to Firestore. It does not store data outside Firestore.
 - **Google Play Billing** (Android) and **Apple App Store / StoreKit** (iOS) — process payments and provide purchase confirmations. They are the controllers of your payment data.
 - **Google Sign-In** — if you sign in with Google, handles authentication; we receive only the basic profile (email, display name).
+- **Google Analytics for Firebase / Google Ads (Google LLC)** — receives the analytics and advertising-identifier data described in Section 1, and reports back in aggregate how our advertising performed. Google acts as our processor for the analytics measurement itself, and as an independent controller when it uses that data to optimise ad delivery across its own network.
 - **Sign in with Apple** (Apple Inc.) — if you sign in with Apple on iOS, handles authentication; we receive your Apple user identifier and the email address you authorize. If you use Apple's "Hide My Email" feature, the address we receive is an anonymized Apple private-relay address (ending in `@privaterelay.appleid.com`) that forwards to your real inbox — we never see your real email address.
 - **Resend** (Resend, Inc.) — our transactional email provider. It delivers our account emails (address verification, password reset, security notices) from `noreply@gymalapp.com`, and for that purpose receives your email address and the contents of those messages. It does not use your address for any other purpose.
 
@@ -64,7 +72,7 @@ We do **NOT** use your information for advertising, profiling for marketing, beh
 
 **Legal disclosure.** We may disclose information if required by a binding legal request from a competent authority, or if necessary to protect rights and safety, in each case to the minimum extent legally required.
 
-We do **NOT** sell, rent, or trade your personal information. We do **NOT** share data with advertisers, data brokers, or analytics providers — the App contains no third-party analytics or crash-reporting SDK.
+We do **NOT** sell, rent, or trade your personal information, and we do **NOT** share it with data brokers. The App contains no crash-reporting SDK. It does contain one analytics SDK — Google Analytics for Firebase — used solely for the advertising measurement described in Section 1. Because that measurement involves passing an advertising identifier to Google, it may count as "sharing" for cross-context behavioral advertising under California law; see Section 8.
 
 ## 4. Data Storage, Security & International Transfers
 
@@ -114,12 +122,14 @@ If you are located in Israel, your data is processed in accordance with the Prot
 
 If you are a California resident, the California Consumer Privacy Act (CCPA) as amended by the California Privacy Rights Act (CPRA) gives you these additional rights.
 
-**Categories of personal information we collect** (using CCPA's defined categories). The categories below describe the personal information we have collected, used, and disclosed for a business purpose **in the preceding 12 months**. We have **NOT sold or shared** personal information in the preceding 12 months (CCPA §1798.115).
+**Categories of personal information we collect** (using CCPA's defined categories). The categories below describe the personal information we have collected, used, and disclosed for a business purpose **in the preceding 12 months**. We have **never sold** personal information, and we do not sell it now (CCPA §1798.115).
 
-- **Identifiers** — email (if you use Sign in with Apple's "Hide My Email", this is an anonymized Apple private-relay address ending in `@privaterelay.appleid.com`), account ID, display name, and — if you sign in with Apple — the Apple user identifier linked to your account
+**Sharing for cross-context behavioral advertising.** From September 2026 the App passes your device's advertising identifier, together with the app-usage data described in Section 1, to Google so that we can measure our advertising campaigns. Under the CPRA's broad definition this may qualify as **"sharing"** — not as a sale, since we receive no money for it, but it is a disclosure for cross-context behavioral advertising and we describe it as sharing rather than argue the point. It applies only to that advertising identifier and the technical usage data in Section 1; no other category below is ever shared for advertising.
+
+- **Identifiers** — email (if you use Sign in with Apple's "Hide My Email", this is an anonymized Apple private-relay address ending in `@privaterelay.appleid.com`), account ID, display name, and — if you sign in with Apple — the Apple user identifier linked to your account. Where you have permitted it, also your device's advertising identifier (IDFA / AAID) and the Google app-instance identifier — the only identifiers in this list that are ever shared for advertising
 - **Customer records** — password (hashed), fitness profile
 - **Commercial information** — purchase history, subscription tier, Apple original transaction identifier (iOS) or Google Play purchase token (Android)
-- **Internet activity** — your in-App activity (we do **NOT** collect external browsing)
+- **Internet activity** — your in-App activity, including the technical app-usage data (app opens, session length, screens viewed, app version, device model) that Google Analytics for Firebase records as described in Section 1 (we do **NOT** collect external browsing)
 - **Inferences** — the body-fat starting estimate computed from your fitness profile
 
 **Sources:** directly from you; generated by your use of the App.
@@ -130,7 +140,13 @@ If you are a California resident, the California Consumer Privacy Act (CCPA) as 
 
 **Subscription and purchase data linked to your account.** When you purchase a subscription, your purchase history, subscription tier, expiry, auto-renew status, and the Apple original transaction identifier (iOS) or Google Play purchase token (Android) are linked to your account ID in our database. Apple App Store guideline 5.1.1(i) and the CPRA require us to make this linkage explicit so that you understand subscription and transaction data are not anonymous in our system, even though we never see your payment card or billing address (those remain with Apple or Google). Purchase data is treated as "Commercial information" under the CCPA and is subject to all rights described in this Section 8.
 
-**Your rights:** to know, delete, correct, opt out of sale/share (we do not sell or share), and non-discrimination. We do not sell or share personal information for cross-context behavioral advertising. You will not be denied service or charged differently for exercising any right.
+**Your rights:** to know, delete, correct, opt out of sharing, and non-discrimination. You will not be denied service or charged differently for exercising any right — the App is fully functional whether or not you allow advertising measurement.
+
+**How to opt out of sharing.** You control this on the device, and the control is absolute — if you decline, no advertising identifier reaches Google at all:
+- **iOS** — decline the App Tracking Transparency prompt, or turn Gymal off at any time in Settings › Privacy & Security › Tracking.
+- **Android** — Settings › Privacy › Ads › Delete advertising ID.
+
+You may also email gymonzapp@gmail.com and we will action the request for your account.
 
 **To submit a request:** email gymonzapp@gmail.com. We verify identity by confirming you can receive mail at the account email. Authorized agents may submit requests with proof of authorization.
 
