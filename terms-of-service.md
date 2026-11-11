@@ -4,9 +4,9 @@ title: Gymal Terms of Service
 
 # Gymal Terms of Service
 
-**Last updated:** June 2026
+**Last updated:** November 2026
 
-These Terms of Service (the "Terms") govern your use of the Gymal mobile application (the "App") operated by Gymal ("Gymal", "we", "us", "our"). Please read them carefully before creating an account or using the App.
+These Terms of Service (the "Terms") govern your use of the Gymal mobile application (the "App") operated by Gymal, an Israeli partnership (business registration no. 558646121), Ami'oz 11, Ashkelon, Israel ("Gymal", "we", "us", "our"). Please read them carefully before creating an account or using the App.
 
 ## 1. Acceptance of Terms
 
@@ -36,7 +36,7 @@ You acknowledge that every payment you make through the platform stores is a vol
 
 We reserve the absolute and unconditional right to modify, redesign, replace, or remove any aspect of the App at our sole discretion and at any time, without notice and without compensation. This right expressly includes, without limitation:
 
-- (a) the visual appearance, art style, sprite sheets, frame animations, color schemes, models, illustrations, and overall design of any Gymal character, monster, evolution stage, exclusive skin, theme, background, ornament, icon, or other in-App visual asset, including assets you have unlocked or purchased;
+- (a) the visual appearance, art style, sprite sheets, frame animations, color schemes, models, illustrations, and overall design of any Gymal character, monster, transformation stage, exclusive skin, theme, background, ornament, icon, or other in-App visual asset, including assets you have unlocked or purchased;
 - (b) sound effects, music, voice clips, and any other audio assets;
 - (c) monster statistics, abilities, type matchups, experience-point curves, levelling rates, battle mechanics, power calculations, drop rates, and reward formulas;
 - (d) shop catalog, pricing, availability, exchange rates, seasonal events, and any in-game economy parameter;
@@ -71,7 +71,7 @@ All content in the App, including but not limited to Gymal character designs, na
 
 We may suspend, restrict, or terminate your account at our sole discretion, with or without notice, for any reason, including violation of these Terms. You may also delete your account at any time from within the App settings. See the [Account & Data Deletion](account-deletion.html) page for the deletion procedure.
 
-**Account deletion is permanent and irreversible.** Upon deletion — whether initiated by you, by us, or by any third party who has obtained access to your account — (a) your right to use the App ceases immediately; (b) all Coins, virtual items, exclusive skins, theme unlocks, monster slots, monsters, evolution progress, achievements, personal records, friends, battle history, subscription-linked benefits, and any other account data are permanently and irrevocably erased; (c) no refund, credit, restoration, or compensation will be provided for any Coins, items, subscriptions, or other purchases made before deletion, regardless of how recently those purchases occurred; and (d) we cannot and will not restore the deleted account or any of its contents.
+**Account deletion is permanent and irreversible.** Upon deletion — whether initiated by you, by us, or by any third party who has obtained access to your account — (a) your right to use the App ceases immediately; (b) all Coins, virtual items, exclusive skins, theme unlocks, monster slots, monsters, transformation progress, achievements, personal records, friends, battle history, subscription-linked benefits, and any other account data are permanently and irrevocably erased; (c) no refund, credit, restoration, or compensation will be provided for any Coins, items, subscriptions, or other purchases made before deletion, regardless of how recently those purchases occurred; and (d) we cannot and will not restore the deleted account or any of its contents.
 
 **You are solely and entirely responsible for maintaining the confidentiality and security of your account credentials,** including your email address, password, Google account, Apple ID, and any device through which you are logged in. You agree that any activity that occurs through your account — including logins, purchases, gameplay, friend interactions, subscription enrollments, deletion of your account, or any unauthorized act by a third party (including a hacker, family member, or anyone to whom you have disclosed your credentials or who has otherwise obtained them) — is your sole responsibility. **We are not responsible or liable in any way** for loss of your account, loss of progress, loss of purchased items, loss of subscription benefits, unauthorized purchases, or deletion of your account that results from your failure to safeguard your credentials, and you waive any claim against us arising from such events to the maximum extent permitted by applicable law.
 
@@ -112,6 +112,8 @@ We may update these Terms at any time. Continued use of the App after changes co
 
 ## 12. Contact
 
+The App is operated by **Gymal**, an Israeli partnership (business registration no. 558646121), Ami'oz 11, Ashkelon, Israel.
+
 For questions about these Terms, please use the in-app feedback feature or email **[gymonzapp@gmail.com](mailto:gymonzapp@gmail.com)**.
 
 ## 13. User-Generated Content License
@@ -144,7 +146,7 @@ If you obtained Gymal through the Apple App Store, the following additional term
 
 7. **Legal Compliance.** You represent and warrant that (a) you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a "terrorist-supporting" country, and (b) you are not listed on any U.S. Government list of prohibited or restricted parties.
 
-8. **Developer Name and Contact.** The developers responsible for the App are **Igal Mekonen** and **Yuval Shamis**, Israel. Contact: [gymonzapp@gmail.com](mailto:gymonzapp@gmail.com).
+8. **Developer Name and Contact.** The developer responsible for the App is **Gymal**, an Israeli partnership (business registration no. 558646121), Ami'oz 11, Ashkelon, Israel. Contact: [gymonzapp@gmail.com](mailto:gymonzapp@gmail.com).
 
 9. **Third-Party Terms.** You agree to comply with any applicable third-party terms when using the App.
 

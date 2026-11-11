@@ -4,9 +4,9 @@ title: Gymal Privacy Policy
 
 # Gymal Privacy Policy
 
-**Last updated:** September 2026
+**Last updated:** November 2026
 
-Gymal ("Gymal", "we", "us", "the App") is a fitness and gamification app operated jointly by Igal Mekonen and Yuval Shamis, individuals residing in Israel, who are joint controllers of your personal data under the GDPR (Art. 26) and the equivalent provisions of Israeli law. This Privacy Policy explains what personal data we collect when you use the App, how we use it, how we share it, how long we keep it, and what rights you have over it. If anything is unclear, or to exercise any of the rights below, contact us at **gymonzapp@gmail.com**.
+Gymal (the "App") is a fitness and gamification app operated by Gymal, an Israeli partnership (business registration no. 558646121), Ami'oz 11, Ashkelon, Israel"Gymal", "we", "us"), which is the controller of your personal data under the GDPR and Israeli law. This Privacy Policy explains what personal data we collect when you use the App, how we use it, how we share it, how long we keep it, and what rights you have over it. If anything is unclear, or to exercise any of the rights below, contact us at **gymonzapp@gmail.com**.
 
 ## 1. Information We Collect
 
@@ -179,4 +179,4 @@ We may update this Privacy Policy from time to time. When we do, we will update 
 
 **Email:** [gymonzapp@gmail.com](mailto:gymonzapp@gmail.com)
 
-**Joint Controllers:** Igal Mekonen and Yuval Shamis, Israel (individuals / joint developers). A Data Protection Officer (for Israeli law) and an EU Representative (for the GDPR) are being appointed. Until appointments are complete, please use the email above and we will respond within the time required by applicable law.
+**Controller:** Gymal, an Israeli partnership (business registration no. 558646121), Ami'oz 11, Ashkelon, Israel. A Data Protection Officer (for Israeli law) and an EU Representative (for the GDPR) are being appointed. Until appointments are complete, please use the email above and we will respond within the time required by applicable law.
